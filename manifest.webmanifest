@@ -1,8 +1,16 @@
 {
-  "name": "Atlas Planning MLS",
-  "short_name": "Atlas Planning",
+  "name": "ATLAS by MLS Énergies",
+  "short_name": "ATLAS",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f2f6f7",
-  "theme_color": "#173947"
+  "background_color": "#eef3f5",
+  "theme_color": "#102a3a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
