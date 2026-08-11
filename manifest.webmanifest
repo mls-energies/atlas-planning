@@ -1,15 +1,30 @@
 {
-  "name": "ATLAS by MLS Énergies",
-  "short_name": "ATLAS",
+  "id": "/",
+  "name": "ATLAS Planning",
+  "short_name": "ATLAS Planning",
+  "description": "Planification des interventions et tournées MLS Énergies",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "fr-FR",
   "background_color": "#eef3f5",
   "theme_color": "#102a3a",
+  "categories": [
+    "business",
+    "productivity"
+  ],
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
