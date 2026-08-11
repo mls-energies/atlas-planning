@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="92" viewBox="0 0 480 92" role="img" aria-labelledby="title">
-  <title id="title">ATLAS by MLS Énergies</title>
+  <title id="title">ATLAS Planning · MLS Énergies</title>
   <g fill="none" fill-rule="evenodd">
     <path fill="#102A3A" d="M5 73 34 13h22l29 60H65l-6-13H31l-6 13H5Zm33-29h14L45 28l-7 16Z"/>
     <path fill="#E04B3F" d="m34 13 11 15-7 16h14l7 16H31l-6 13H5L34 13Z" opacity=".96"/>
     <text x="98" y="57" fill="#102A3A" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="800" letter-spacing="4">ATLAS</text>
-    <text x="101" y="80" fill="#667B86" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">BY MLS ÉNERGIES</text>
+    <text x="101" y="80" fill="#667B86" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">PLANNING · MLS ÉNERGIES</text>
   </g>
 </svg>
