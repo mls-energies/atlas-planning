@@ -1,4 +1,4 @@
-const CACHE='atlas-planning-v1';
+const CACHE='atlas-planning-v2';
 const CORE=['/','/index.html','/manifest.webmanifest','/icon-192.png','/icon-512.png','/logo-atlas.svg'];
 
 self.addEventListener('install',event=>{
